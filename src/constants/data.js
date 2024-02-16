@@ -117,17 +117,12 @@ const testimonials = [
     {
         name: "Lelia Merritt",
         post: "Graphic Designer",
-        paragraph: "Aliquam et odio arcu. Vestibulum pharetra tincidunt odio, sed pulvinar magna tempus quis. Mauris risus odio, semper sit amet tortor a, tristique consectetur urna."
+        paragraph: "O melhor curso de enscape que já fiz, me ajudou muito a fazer imagens rápidas e de alta qualidade, me salvou no meu tcc!!! Muito obrigada Silvano pelo ensino de excelência!"
     },
     {
         name: "John Huston",
         post: "Web Developer",
-        paragraph: "Aliquam et odio arcu. Vestibulum pharetra tincidunt odio, sed pulvinar magna tempus quis. Mauris risus odio, semper sit amet tortor a, tristique consectetur urna."
-    },
-    {
-        name: "Jeniffer Green",
-        post: "Marketing Manager",
-        paragraph: "Aliquam et odio arcu. Vestibulum pharetra tincidunt odio, sed pulvinar magna tempus quis. Mauris risus odio, semper sit amet tortor a, tristique consectetur urna."
+        paragraph: "Comprem sem medo, extremamente didático e de fácil aplicação"
     },
 ]
 
@@ -167,7 +162,7 @@ const matters = [
     {
         icon: <RiNumber3 className="mx-auto" size={60}/>,
         title: "Configurações de materiais",
-        paragraph: "Generic, Bump, Tipos de materiais, Bônus 2 (Collection)"
+        paragraph: "Generic, Bump, Tipos de materiais, Bônus 2 (plugin Collection)"
     },
     {
         icon: <RiNumber4 className="mx-auto" size={60}/>,

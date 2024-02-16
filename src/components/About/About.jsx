@@ -36,8 +36,8 @@ const About = () => {
 
                     <div className='about-grid grid'>
                         <div className='section-title'>
-                            <h3 className='text-brown'>Video <span className='text-dark'>Presentation</span></h3>
-                            <p className='text mx-auto'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est molestias maxime tenetur, temporibus aspernatur, omnis expedita saepe sapiente adipisci laboriosam necessitatibus ullam eveniet asperiores nostrum.</p>
+                            <h3 className='text-orange'>Cena em vídeo</h3>
+                            
                         </div>
 
                         <div className='about-video'>

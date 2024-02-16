@@ -22,7 +22,7 @@ const Testimonials = () => {
         <div className='container'>
             <div className='testimonials-content'>
                 <div className='section-title'>
-                    <h3 className='text-brown'>Client <span className='text-white'>Testimonials</span></h3>
+                    <h3 className='text-white'>O que estão falando sobre o  <span className='text-white'>curso</span></h3>
                 </div>
 
                 <div className='testimonials-list'>
@@ -33,8 +33,8 @@ const Testimonials = () => {
                                     <div className='testimonials-item text-center text-white' key = {index}>
                                         <p className='text mx-auto'>{testimonial.paragraph}</p>
                                         <div className='testimonials-item-text'>
-                                            <span className='fs-22'>{testimonial.name}</span>
-                                            <small>{testimonial.post}</small>
+                                            {/*<span className='fs-22'>{testimonial.name}</span>
+                                            <small>{testimonial.post}</small>*/}
                                         </div>
                                     </div>
                                 )
@@ -43,17 +43,7 @@ const Testimonials = () => {
                     </Slider>
                 </div>
 
-                <div className='logos-list grid'>
-                    {
-                        logos.map((logo, index) => {
-                            return (
-                                <div className='logos-item' key = {index}>
-                                    <img src = {logo.image} alt = "" className='mx-auto' />
-                                </div>
-                            )
-                        })
-                    }
-                </div>
+                
             </div>
         </div>
     </div>

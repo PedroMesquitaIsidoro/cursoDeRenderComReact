@@ -20,7 +20,7 @@ function App() {
       <Matters />
       <Newsletter />
       <About />
-      {/*<Testimonials />*/}
+      <Testimonials />
       <Footer />
     </div>
   );
